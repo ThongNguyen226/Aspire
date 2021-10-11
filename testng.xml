@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="D:/Code/OS_WCore/Aspire/src/test/java/com/aspireapp/InviteNewUser/PositiveCase/TC_INUP_001_AdminCanInviteANewUser.java"><classes><class name="com.aspireapp.InviteNewUser.PositiveCase.TC_INUP_001_AdminCanInviteANewUser"><methods><include name="TC_INUP_001_AdminCanInviteANewUser"/></methods></class></classes></test></suite>

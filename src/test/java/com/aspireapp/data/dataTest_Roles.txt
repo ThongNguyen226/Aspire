@@ -1,0 +1,9 @@
+Director,Admin
+Director,Finance,Transfer without approval
+Director,Finance,Submit only
+Director,Finance,No transfer rights
+Director,Employee
+Non-director,Finance,Transfer without approval
+Non-director,Finance,Submit only
+Non-director,Finance,No transfer rights
+Non-director,Employee
